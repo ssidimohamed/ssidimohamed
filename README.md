@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **projects in the field**
 
-- 📫 How to reach me **ssidelmo@utc.fr**
+- 📫 How to reach me ? **ssidelmo@utc.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
