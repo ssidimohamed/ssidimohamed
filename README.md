@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidi Mohamed SID'EL MOCTAR</h1>
 <h3 align="center">I am a PhD Candidate at University of Technology of Compiegne</h3>
 
-- 🔭 I’m currently working on **Deep learning for Biomedical data Classification**
+- 🔭 I’m currently working on **Deep learning in biomedical signal processing with EMG applications**
 
 - 👯 I’m looking to collaborate on **projects in the field**
 
